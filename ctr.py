@@ -15,4 +15,3 @@ def ctr(message,key):
     return b"".join(cipherb)
 
 
-# i really take so much time in this exercise 
